@@ -44,7 +44,7 @@ function App() {
       <Contenedor>
         <Imagen src={ImagenCripto} alt="Inmagen Cripto" />
         <div>
-          <Heading>Cotiza Criptomonedas al Instante</Heading>
+          <Heading>Cotiza Criptomonedas al Instante </Heading>
         </div>
       </Contenedor>
     </>
